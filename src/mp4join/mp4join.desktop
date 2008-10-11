@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=MP4Join
+
+Comment=Joins MPEG4 Files
+Encoding=UTF-8
+Version=0.0.2
+
+Type=Application
+Categories=Application;Graphics;AudioVideo;GTK;
+
+MimeType=video/mpeg
+
+FilePattern=mp4
+Exec=mp4join
+TryExec=mp4join
+Terminal=false
+StartupNotify=true
+Icon=
